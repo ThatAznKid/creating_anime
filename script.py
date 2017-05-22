@@ -1,5 +1,3 @@
-#VARY BUT NO FRAMES DOES NOT WORK
-
 import mdl, os, sys
 from display import *
 from matrix import *
